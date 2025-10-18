@@ -71,7 +71,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Saeed-Ghazal/Saeed-Ghazal/main/output/snake.gif" alt="Snake animation" />
+![Snake animation](https://github-readme-stats.vercel.app/api?username=Saeed-Ghazal&show_icons=true&theme=midnight-purple)
+
 
 
 ###
