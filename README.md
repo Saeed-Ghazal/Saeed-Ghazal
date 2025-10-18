@@ -71,6 +71,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Saeed-Ghazal/Saeed-Ghazal/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Saeed-Ghazal/Saeed-Ghazal/main/output/snake.gif" alt="Snake animation" />
+
 
 ###
