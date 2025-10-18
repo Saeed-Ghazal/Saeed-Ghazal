@@ -71,7 +71,8 @@
 
 ###
 
-![Snake animation](https://github-readme-stats.vercel.app/api?username=Saeed-Ghazal&show_icons=true&theme=midnight-purple)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/master/output/github-snake-dark.svg)
+
 
 
 
