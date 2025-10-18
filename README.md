@@ -71,7 +71,8 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/master/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/master/output/ocean.gif)
+
 
 
 
