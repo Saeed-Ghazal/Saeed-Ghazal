@@ -72,23 +72,34 @@ Python · C/C++ · Java · TensorFlow · PyTorch · NumPy · OpenCV
 ### 📫 Connect with Me
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/<YOUR-LINKEDIN>" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" />
   </a>
+  
+  <!-- Discord -->
   <a href="https://discordapp.com/users/<YOUR-DISCORD-ID>" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" height="50" />
   </a>
+  
+  <!-- YouTube -->
   <a href="https://youtube.com/@<YOUR-YOUTUBE>" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" height="50" />
   </a>
+  
+  <!-- WhatsApp -->
   <a href="https://wa.me/<YOUR-NUMBER>" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="50" />
   </a>
+  
+  <!-- Instagram -->
   <a href="https://instagram.com/<YOUR-INSTAGRAM>" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="50" />
   </a>
+  
+  <!-- Gmail -->
   <a href="mailto:<YOUR-EMAIL>" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" />
   </a>
 </p>
 
