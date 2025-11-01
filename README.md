@@ -124,3 +124,11 @@ Python · C/C++ · Java · TensorFlow · PyTorch · NumPy · OpenCV
 
 
 
+
+
+### 🐍 Snake Game Preview
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6MbtNf6lQqpxx92Y/giphy.gif" alt="Snake Game" width="400"/>
+</p>
+
