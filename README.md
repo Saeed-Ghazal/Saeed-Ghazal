@@ -121,8 +121,9 @@ Python · C/C++ · Java · TensorFlow · PyTorch · NumPy · OpenCV
 ### 🐍 GitHub Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saeed-Ghazal/Saeed-Ghazal/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://github-readme-stats.vercel.app/api/github-contributions?username=Saeed-Ghazal&theme=midnight-purple&hide_border=false" alt="GitHub Snake"/>
 </p>
+
 
 
 
