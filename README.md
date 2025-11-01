@@ -1,75 +1,108 @@
-<h1 align="center">👋 Hi, I'm Saeed Ghazal</h1>
+<!--  ====== HEADER ====== -->
+<h1 align="center">👋 Hi, I'm <span style="color:#9d5cff;">Saeed Ghazal</span></h1>
 
-###
+<h3 align="center">🤖 AI Engineer | 🎨 3D Designer | 💡 Innovator</h3>
 
-<h3 align="center">AI Engineer | 3D Designer</h3>
+<p align="center">
+  <em>Where <b>creativity</b> meets <b>intelligence</b> — I build smart systems and bring ideas to life in 3D.</em>
+</p>
 
-###
+---
 
-<h4 align="left">I'm passionate about developing intelligent systems and 3D designs, and I love combining creativity and technology to build realistic ideas and innovative projects.</h4>
+<!--  ====== ABOUT ====== -->
+### 💫 About Me  
+- 🔭 I’m currently working on **AI-powered robotics and computer vision projects**  
+- 🧠 I’m deeply interested in **Deep Learning, Simulation, and 3D Modeling**  
+- 🎯 My goal: to merge **Artificial Intelligence + Mechanical Design** for real-world solutions  
+- 🌱 Currently learning **Reinforcement Learning & Generative AI**  
+- ⚡ Fun fact: I love making real robots that think for themselves!  
 
-###
+---
 
-<h5 align="left">🧠 Skills<br><br>Machine Learning & Deep Learning<br><br>Computer Vision & Natural Language Processing<br><br>Robotics Development & Simulation<br><br>3D Design (Fusion 360, SolidWorks, Blender)<br><br>Python, TensorFlow, PyTorch<br><br>Data Analysis & Visualization</h5>
+<!--  ====== SKILLS ====== -->
+### 🧠 Skills & Tools
 
-###
+#### 💻 Artificial Intelligence
+Machine Learning · Deep Learning · Computer Vision · NLP · Data Analysis  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60" alt="blender logo"  />
-</div>
+#### ⚙️ Robotics & Simulation
+Arduino · Raspberry Pi · ROS (Simulation) · MATLAB  
 
-###
+#### 🎨 3D Design
+Fusion 360 · SolidWorks · Blender  
 
-<h4 align="left">📫 Contact Me</h4>
-
-###
+#### 🐍 Programming
+Python · C/C++ · Java · TensorFlow · PyTorch · NumPy · OpenCV  
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,cpp,c,java,arduino,raspberrypi,linux,blender" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" alt="matlab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy"/>
 </div>
 
-###
+---
+
+<!--  ====== PROJECTS ====== -->
+### 🚀 Featured Projects
+| 💡 Project | 🔍 Description | 🧰 Tech |
+|:-----------|:----------------|:--------|
+| 🤖 **Sumo Robot AI** | Intelligent sumo robot with sensors, strategy, and autonomous control | Arduino, Python, IR Sensors, Fusion 360 |
+| 🧠 **Vision-Based Object Tracker** | Real-time object tracking using Deep Learning and OpenCV | Python, TensorFlow, OpenCV |
+| 🧩 **3D Mechanical Arm** | Fully 3D-designed robotic arm model with motion simulation | Fusion 360, Blender |
+| 💬 **Chatbot for Education** | Natural Language AI assistant for student projects | Python, NLP, Flask |
+
+---
+
+<!--  ====== GITHUB STATS ====== -->
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saeed-Ghazal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Saeed-Ghazal&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Saeed-Ghazal&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saeed-Ghazal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Saeed-Ghazal&theme=tokyonight&hide_border=false" height="160" alt="GitHub Streak" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saeed-Ghazal&theme=tokyonight&no-frame=true&margin-w=10" height="130" />
+</div>
 
+---
 
+<!--  ====== CONTACT ====== -->
+### 📫 Connect with Me
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/<YOUR-LINKEDIN>" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  <a href="https://discordapp.com/users/<YOUR-DISCORD-ID>" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="50" />
+  </a>
+  <a href="https://youtube.com/@<YOUR-YOUTUBE>" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" height="50" />
+  </a>
+  <a href="https://wa.me/<YOUR-NUMBER>" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" height="50" />
+  </a>
+  <a href="https://instagram.com/<YOUR-INSTAGRAM>" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  </a>
+  <a href="mailto:<YOUR-EMAIL>" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+</p>
 
-###
+---
+
+<!--  ====== FOOTER ====== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9D5CFF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+3D+Designer+%7C+Robotics+Developer;Building+Smart+and+Creative+Machines;Let's+Create+the+Future+Together+🚀" alt="Typing SVG" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saeed-Ghazal&style=for-the-badge&color=9d5cff" alt="Profile Views" />
+</div>
+
 
