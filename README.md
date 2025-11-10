@@ -1,90 +1,58 @@
-<h1 align="center">👋 Hi, I'm Saeed Ghazal</h1>
+<h1 align="center">I'm Saeed Ghazal</h1>
 
-###
+<h2 align="center">Ai engineer | Robotics Developer</h2>
+<br>
 
-<h3 align="center">AI Engineer | 3D Designer</h3>
-
-###
-
-<h4 align="left">I'm passionate about developing intelligent systems and 3D designs, and I love combining creativity and technology to build realistic ideas and innovative projects.</h4>
-
-###
-
-<h2 align="left">🧠 Skills</h2>
-
-###
-
-<h5 align="left">Machine Learning & Deep Learning<br><br>Computer Vision & Natural Language Processing<br><br>Robotics Development & Simulation<br><br>3D Design (Fusion 360, SolidWorks, Blender)<br><br>Python, TensorFlow, PyTorch<br><br>Data Analysis & Visualization</h5>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60" alt="blender logo"  />
-</div>
-
-###
-
-<h2 align="left">📫 Contact Me</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/saeed-ghazal-a81941302/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=48EB78&center=true&width=435&lines=Hello+%2C+there!;this+is+mohammad+zalloum;Nice+to+meet+you!" alt="Typing SVG" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="https://www.youtube.com/@SaeedGhazal-x2f7n" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</p>
+
+  <p>
+    <a href="https://drive.google.com/file/d/1g7sKrpT0wg7DIbvunhGrIwlDhLtt0Y_m/view?usp=sharing">
+      <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://Saeed-Ghazal.github.io/personal-portfolio/">
+      <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
+  </p>
+
+
+<h3 align="left">📤 Connect with Me:</h3>
+<p align="left">
+  <a href="mailto:mohammad.zalloum098@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
+  </a>&nbsp;
+
+  <a href="https://www.linkedin.com/in/mohammad-zalloum-36158323b" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
+  </a>&nbsp;
+
+  <a href="https://wa.me/962790996863?text=%D9%85%D8%B1%D8%AD%D8%A8%D9%8B%D8%A7%D8%8C%20%D8%A3%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%81%D8%B3%D8%A7%D8%B1%20%D8%B9%D9%86..." target="_blank" rel="noopener noreferrer">
+    <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/>
+  </a>&nbsp;
+
+  <a href="https://discord.com/users/mohammad7393" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" height="45"/>
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <a href="https://www.instagram.com/saeed_ghazalll/?next=https%3A%2F%2Fwww.instagram.com%2Fdirect%2Finbox%2F%3F__coig_login%3D1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="saeed.montaser.ai@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+</p>
 
-###
+<h3 align="left">🛠 Languages & Tools:</h3>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,html,css,arduino,linux,pycharm"/>
+</p>
 
-<br clear="both">
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saeed-Ghazal&theme=onestar&row=1&column=7"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saeed-Ghazal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Saeed-Ghazal&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Saeed-Ghazal&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<br>
 
-###
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saeed-Ghazal&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Saeed-Ghazal&theme=radical" height="120"/>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saeed-Ghazal/Saeed-Ghazal/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saeed-Ghazal/Saeed-Ghazal/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Saeed-Ghazal/Saeed-Ghazal/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<p align="left">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
+</p>
