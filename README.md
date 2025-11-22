@@ -6,8 +6,6 @@
 
 ###
 
-<hr align="center" width="50%" style="border:1px solid #48EB78; margin: 10px 0;" />
-
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img 
