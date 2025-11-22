@@ -4,6 +4,8 @@
 
 <h3 align="center">AI Engineer | 3D Designer</h3>
 
+###
+
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img 
