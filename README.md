@@ -1,10 +1,12 @@
-<h1 align="center">👋 Hi, I'm Saeed Ghazal</h1>
+<h1 align="center">Hi, I'm Saeed Ghazal</h1>
 
 ###
 
-<h3 align="center">AI Engineer | 3D Designer</h3>
+<h2 align="center">AI Engineer | 3D Designer</h2>
 
+###
 
+<hr align="center" width="50%" style="border:1px solid #48EB78; margin: 10px 0;" />
 
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
@@ -15,10 +17,6 @@
   </a>
 </p>
 
-
-
-###
-
 <h4 align="left">I'm passionate about developing intelligent systems and 3D designs, and I love combining creativity and technology to build realistic ideas and innovative projects.</h4>
 
 ###
@@ -27,7 +25,7 @@
 
 ###
 
-<h5 align="left">Machine Learning & Deep Learning<br><br>Computer Vision & Natural Language Processing<br><br>Robotics Development & Simulation<br><br>3D Design (Fusion 360, SolidWorks, Blender)<br><br>Python, TensorFlow, PyTorch<br><br>Data Analysis & Visualization</h5>
+<h4 align="left">Machine Learning & Deep Learning<br><br>Computer Vision & Natural Language Processing<br><br>Robotics Development & Simulation<br><br>3D Design (Fusion 360, SolidWorks, Blender)<br><br>Python, TensorFlow, PyTorch<br><br>Data Analysis & Visualization</h4>
 
 ###
 
@@ -93,18 +91,8 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Saeed-Ghazal.Saeed-Ghazal&"  />
 </div>
 
 ###
