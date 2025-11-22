@@ -90,9 +90,10 @@
 
 ###
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=Saeed-Ghazal" alt="GitHub Snake" />
 </p>
+
 
 
 <div>
