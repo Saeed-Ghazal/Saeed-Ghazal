@@ -1,11 +1,11 @@
 <h1 align="center">I'm Saeed Ghazal</h1>
 
-<h2 align="center">Ai engineer | Robotics Developer</h2>
+<h2 align="center">Ai engineer | 3D Designer</h2>
 <br>
 
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=48EB78&center=true&width=435&lines=Hello+%2C+there!;this+is+mohammad+zalloum;Nice+to+meet+you!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=48EB78&center=true&width=435&lines=Hello+%2C+there!;this+is+Saeed-Ghazal;Nice+to+meet+you!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,11 +19,11 @@
 
 <h3 align="left">📤 Connect with Me:</h3>
 <p align="left">
-  <a href="mailto:mohammad.zalloum098@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:saeed.montaser.ai@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
   </a>&nbsp;
 
-  <a href="https://www.linkedin.com/in/mohammad-zalloum-36158323b" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/saeed-ghazal-a81941302/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
   </a>&nbsp;
 
