@@ -16,7 +16,7 @@
 </p>
 
 
-<h4 align="left">I'm passionate about developing intelligent systems and 3D designs, and I love combining creativity and technology to build realistic ideas and innovative projects.</h4>
+<h3 align="left">I'm passionate about developing intelligent systems and 3D designs, and I love combining creativity and technology to build realistic ideas and innovative projects.</h3>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h4 align="left">Machine Learning & Deep Learning<br><br>Computer Vision & Natural Language Processing<br><br>Robotics Development & Simulation<br><br>3D Design (Fusion 360, SolidWorks, Blender)<br><br>Python, TensorFlow, PyTorch<br><br>Data Analysis & Visualization</h4>
+<h3 align="left">Machine Learning & Deep Learning<br><br>Computer Vision & Natural Language Processing<br><br>Robotics Development & Simulation<br><br>3D Design (Fusion 360, SolidWorks, Blender)<br><br>Python, TensorFlow, PyTorch<br><br>Data Analysis & Visualization</h3>
 
 ###
 
